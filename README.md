@@ -2,7 +2,7 @@
 
 The objective of project to judge whether a customer is eligible to get a loan of desired amount or not. Analysed the data, preprocessed and encoded the text labels into numeric form. Used different models and got highest accuracy of 80% using Random Forest Classifier.
 
-#Problem Statement:
+# Problem Statement:
 
 This is a standard classification problem.A classification problem where we have to predict whether a loan would be approved or not based on the features provided. Below is the dataset attributes with description.
    
